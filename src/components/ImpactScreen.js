@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaTint, FaOilCan, FaBolt, FaLandmark } from 'react-icons/fa';
+import { FaTint, FaOilCan, FaBolt, FaLandmark, FaIconName } from 'react-icons/fa';
 
 const ImpactScreen = () => {
   return (
